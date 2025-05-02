@@ -1,2 +1,2 @@
 # meriterraformvalirepo
-My awesome codebase.manuaaly changed jhbekbfkzbsdjhgbjysabjthsEJIycfhiydh
+Manually chnaged 
